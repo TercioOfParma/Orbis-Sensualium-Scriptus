@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.3.24)  10 JUN 2024 13:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.3.24)  12 JUN 2024 17:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -147,10 +147,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5 <./Images/God.png>]
-Underfull \vbox (badness 8151) has occurred while \output is active []
-
- [6]
+ [5 <./Images/God.png>] [6]
 Underfull \vbox (badness 5036) has occurred while \output is active []
 
  [7])
@@ -163,11 +160,11 @@ L3 programming layer <2023-06-05>
 Here is how much of TeX's memory you used:
  2122 strings out of 475735
  33809 string characters out of 5784786
- 1866759 words of memory out of 5000000
+ 1867759 words of memory out of 5000000
  22864 multiletter control sequences out of 15000+600000
  521036 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,65p,1716b,183s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,10n,65p,1810b,218s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
@@ -178,7 +175,7 @@ ype1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsl10.pfb>
-Output written on main.pdf (8 pages, 220825 bytes).
+Output written on main.pdf (8 pages, 221399 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
