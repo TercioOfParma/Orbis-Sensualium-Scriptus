@@ -1,3 +1,6 @@
 \contentsline {chapter}{\numberline {1}De Deo et Eliseo}{5}{}%
 \contentsline {section}{\numberline {1.1}Intended Audience}{5}{}%
 \contentsline {section}{\numberline {1.2}Text}{6}{}%
+\contentsline {chapter}{\numberline {2}Deus et Eliseus venerunt in mundum}{9}{}%
+\contentsline {section}{\numberline {2.1}Intended Audience}{9}{}%
+\contentsline {section}{\numberline {2.2}Text}{10}{}%
