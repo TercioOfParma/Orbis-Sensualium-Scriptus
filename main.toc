@@ -4,3 +4,6 @@
 \contentsline {chapter}{\numberline {2}Deus et Eliseus venerunt in mundum}{9}{}%
 \contentsline {section}{\numberline {2.1}Intended Audience}{9}{}%
 \contentsline {section}{\numberline {2.2}Text}{10}{}%
+\contentsline {chapter}{\numberline {3}Deus et Eliseus Ascenderunt in Caelum}{13}{}%
+\contentsline {section}{\numberline {3.1}Intended Audience}{13}{}%
+\contentsline {section}{\numberline {3.2}Text}{14}{}%
