@@ -10,3 +10,6 @@
 \contentsline {chapter}{\numberline {4}De amaritudine in vita spirituali}{17}{}%
 \contentsline {section}{\numberline {4.1}Intended Audience}{17}{}%
 \contentsline {section}{\numberline {4.2}Text}{18}{}%
+\contentsline {chapter}{\numberline {5}De Methodo Orationis Mentalis Francisci Salesi}{25}{}%
+\contentsline {section}{\numberline {5.1}Intended Audience}{25}{}%
+\contentsline {section}{\numberline {5.2}Text}{26}{}%
