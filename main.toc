@@ -13,3 +13,6 @@
 \contentsline {chapter}{\numberline {5}De Methodo Orationis Mentalis Dom Vitalis Lehodey}{25}{}%
 \contentsline {section}{\numberline {5.1}Intended Audience}{25}{}%
 \contentsline {section}{\numberline {5.2}Text}{26}{}%
+\contentsline {chapter}{\numberline {6}I Johannes I et II}{31}{}%
+\contentsline {section}{\numberline {6.1}Intended Audience}{31}{}%
+\contentsline {section}{\numberline {6.2}Text}{31}{}%

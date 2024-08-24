@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.6.28)  4 JUL 2024 13:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.7.23)  24 AUG 2024 20:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -245,6 +245,12 @@ File: ./Images/Air.png Graphic file (type png)
 <use ./Images/Air.png>
 Package pdftex.def Info: ./Images/Air.png  used on input line 3.
 (pdftex.def)             Requested size: 269.88261pt x 182.93298pt.
+
+Overfull \hbox (8.59654pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/n/10.95 v^^Venerit?" ait Eliseus. Re-spon-dit "Nesci^^Vo. Deus scit,
+ et sc^^V^^Pvit ante cre^^Vati^^Vonem[]
+ []
+
 [25 <./Images/Air.png>]
 Underfull \vbox (badness 1496) has occurred while \output is active []
 
@@ -264,24 +270,50 @@ on-dit Eliseus. "Deinde, ex c^^Vons^^V^^Pder^^Vati^^Vone
 Underfull \vbox (badness 7030) has occurred while \output is active []
 
  [27])
+(./6.1_John/Latin Text.tex
 Overfull \hbox (59.94601pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/10.95 28 \OT1/cmr/m/sl/10.95 CHAPTER 5.  DE METHODO ORATIONIS MENT
 ALIS DOM VITALIS LEHODEY
  []
 
-[28] [29] (./main.aux)
+[28] [29]
+Overfull \hbox (59.94601pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 30 \OT1/cmr/m/sl/10.95 CHAPTER 5.  DE METHODO ORATIONIS MENT
+ALIS DOM VITALIS LEHODEY
+ []
+
+[30
+
+]
+Chapter 6.
+[31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+Underfull \vbox (badness 5022) has occurred while \output is active []
+
+ [33]
+Underfull \vbox (badness 2809) has occurred while \output is active []
+
+ [34]
+Overfull \hbox (6.92413pt too wide) in paragraph at lines 16--17
+[]\OT1/cmr/m/n/10.95 S^^V^^P sc^^V^^Ptis[] quo-niam j^^Vustus est, sc^^V^^Pt^^V
+ote[] quo-niam et om-nis, qu^^V^^P facit j^^Vustitiam,
+ []
+
+) [35] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2195 strings out of 474222
- 35436 string characters out of 5748733
- 1942975 words of memory out of 5000000
- 24421 multiletter control sequences out of 15000+600000
+ 2202 strings out of 476139
+ 35605 string characters out of 5794454
+ 1957975 words of memory out of 5000000
+ 24178 multiletter control sequences out of 15000+600000
  565718 words of font info for 61 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
+ 36 hyphenation exceptions out of 8191
  57i,10n,65p,3469b,218s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
@@ -293,10 +325,10 @@ ype1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsl10.pfb>
-Output written on main.pdf (29 pages, 1848220 bytes).
+Output written on main.pdf (35 pages, 1864183 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
+ 178 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
